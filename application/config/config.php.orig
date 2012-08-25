@@ -14,7 +14,11 @@
 | path to your installation.
 |
 */
+<<<<<<< HEAD
+$config['base_url']	= 'opa';
+=======
 $config['base_url']	= 'from new_b';
+>>>>>>> new_b
 
 /*
 |--------------------------------------------------------------------------
